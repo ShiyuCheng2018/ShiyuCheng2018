@@ -1,4 +1,4 @@
-### Hi there 👋 I am Shiyu Cheng
+### Hi there 👋 I am Shiyu Cheng,a life-long student who never stop learning!
 
 - 🔭 I’m currently working on MonkeyDock project at AAI. LLD
 - 🌱 I’m currently learning GraphQL, Typescript, Raect Native, Electron, DevOps CI/CD, & Network
