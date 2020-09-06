@@ -2,7 +2,7 @@
 
 - 🌎 www.shiyu.world
 - 🔭 I’m currently working on MonkeyDock project at AAI. LLD
-- 🌱 I’m currently learning GraphQL, Typescript, Raect Native, Electron, DevOps CI/CD, & Network
+- 🌱 I’m currently learning GraphQL, Raect Native, Electron, DevOps CI/CD, & Network
 - 💬 Ask me about anything, just try
 - 📫 How to reach me: starkeyshiyu@gmail.com
 - 😄 Pronouns: SHI-YU, or (Shy-yu, if that's easier for you)
