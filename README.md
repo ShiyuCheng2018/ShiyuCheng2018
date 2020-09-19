@@ -5,8 +5,11 @@
 - 💬 Ask me about anything, just try
 - 📫 How to reach me: starkeyshiyu@gmail.com
 - 😄 Pronouns: SHI-YU, or (Shy-yu, if that's easier for you)
-- Languages: Python, JavaScript, TypeScript, HTML/CSS, Java, C/C++, R, SQL
-- Frameworks/ libraries / Databases: React, Redux, Node, Sass, MySQL, MongoDB, PostgreSQL, Material UI, AntD, Bootstrap, Radis, OAuth2, Docker
+
+### skills
+- 💻 Languages: Python, JavaScript, TypeScript, HTML/CSS, Java, C/C++, R, SQL
+- 📦 Databases: MySQL, MongoDB, PostgreSQL, Radis
+- 🛠 Frameworks/ libraries: React, Redux, React Native, Node, Sass,  Material UI, AntD, Bootstrap, OAuth2, Docker
 
 
 
