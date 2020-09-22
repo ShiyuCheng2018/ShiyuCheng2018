@@ -1,3 +1,4 @@
+![sky_night](assets/images/sky_night.jpg)
 ### Hi there 👋 I am Shiyu Cheng,a life-long student who never stop learning!
 
 - 🌎 www.shiyu.world
