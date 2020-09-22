@@ -9,7 +9,7 @@
 ### skills
 - 💻 Languages: Python, JavaScript, TypeScript, HTML/CSS, Java, C/C++, R, SQL
 - 📦 Databases: MySQL, MongoDB, PostgreSQL, Radis
-- 📱 Moblie: React Native
+- 📱 Mobile: React Native
 - 🛠 Frameworks/ libraries: React, Redux, Node, Sass, Material UI, AntD, Bootstrap, OAuth2, Docker
 
 
