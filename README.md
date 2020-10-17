@@ -14,10 +14,3 @@
 - 🛠 Frameworks/ libraries: React, Redux, Node, Sass, Material UI, AntD, Bootstrap, OAuth2, Docker
 
 ![footer](assets/images/footer.png)
-
-
-
-
-
-
-
