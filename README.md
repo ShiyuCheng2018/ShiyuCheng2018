@@ -12,5 +12,6 @@
 - 📦 Databases: MySQL, MongoDB, PostgreSQL, Radis
 - 📱 Mobile: React Native
 - 🛠 Frameworks/ libraries: React, Redux, Node, Sass, Material UI, AntD, Bootstrap, OAuth2, Docker
-
+- 💿 OS: windows, macOS, Linux (Ubantu, CentOS)
+- 🕹 Addons: shell
 ![footer](assets/images/footer.png)
