@@ -16,5 +16,3 @@
 - 🕹 Addons: shell
 
 ![footer](assets/images/footer.png)
-
-
