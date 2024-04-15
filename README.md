@@ -1,5 +1,5 @@
 ![banner](assets/images/clear_sky.jpg)
-### Hi there 👋 I am Shiyu Cheng,a life-long student who never stop learning!
+### Hi there 👋
 
 - 💬 Ask me about anything, just try
 
